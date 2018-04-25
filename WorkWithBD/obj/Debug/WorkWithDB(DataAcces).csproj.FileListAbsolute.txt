@@ -1,0 +1,28 @@
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.dll.config
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.pdb
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\HumanResource.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\HumanResource.pdb
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\HumanResource.dll.config
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.xml
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithDB(DataAcces).csprojResolveAssemblyReference.cache
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithDB(DataAcces).csproj.CoreCompileInputs.cache
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithBD.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithBD.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\EntityFramework.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\EntityFramework.SqlServer.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\HumanResource.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\HumanResource.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\HumanResource.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\EntityFramework.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\bin\Debug\EntityFramework.SqlServer.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\obj\Debug\WorkWithDB(DataAcces).csprojResolveAssemblyReference.cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\obj\Debug\WorkWithDB(DataAcces).csproj.CoreCompileInputs.cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\obj\Debug\WorkWithBD.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\WorkWithBD\obj\Debug\WorkWithBD.pdb

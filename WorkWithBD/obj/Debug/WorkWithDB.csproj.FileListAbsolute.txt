@@ -1,0 +1,14 @@
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.dll.config
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\WorkWithBD.pdb
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\HumanResource.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\HumanResource.pdb
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\HumanResource.dll.config
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.xml
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithDB.csprojResolveAssemblyReference.cache
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithDB.csproj.CoreCompileInputs.cache
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithBD.dll
+C:\Users\lutik\source\repos\HumanResource\WorkWithBD\obj\Debug\WorkWithBD.pdb

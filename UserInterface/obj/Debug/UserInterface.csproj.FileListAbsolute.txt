@@ -1,0 +1,50 @@
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.EditDossier.resources
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.Form1.resources
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.ShowDossier.resources
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\HumanResource.dll
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\UserFeaturs.dll
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\WorkWithBD.dll
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\EntityFramework.dll
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\HumanResource.pdb
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\HumanResource.dll.config
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\UserFeaturs.pdb
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\UserFeaturs.dll.config
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\WorkWithBD.pdb
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\WorkWithBD.dll.config
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\EntityFramework.xml
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\lutik\source\repos\HumanResource\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lutik\source\repos\HumanResource\UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\UserInterface.exe.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\UserInterface.exe
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\UserInterface.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\EntityFramework.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\EntityFramework.SqlServer.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\HumanResource.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\UserFeaturs.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\WorkWithBD.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\HumanResource.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\HumanResource.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\UserFeaturs.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\UserFeaturs.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\EntityFramework.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\EntityFramework.SqlServer.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\WorkWithBD.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\bin\Debug\WorkWithBD.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.EditDossier.resources
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.Form1.resources
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.ShowDossier.resources
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.csproj.CoreCompileInputs.cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.exe
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\UserInterface\obj\Debug\UserInterface.pdb

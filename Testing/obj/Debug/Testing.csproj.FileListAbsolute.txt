@@ -1,0 +1,40 @@
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\Testing.exe.config
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\Testing.exe
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\Testing.pdb
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\EntityFramework.dll
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\HumanResource.dll
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\WorkWithBD.dll
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\HumanResource.pdb
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\HumanResource.dll.config
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\WorkWithBD.pdb
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\WorkWithBD.dll.config
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\EntityFramework.xml
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\lutik\source\repos\HumanResource\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+C:\Users\lutik\source\repos\HumanResource\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\lutik\source\repos\HumanResource\Testing\obj\Debug\Testing.exe
+C:\Users\lutik\source\repos\HumanResource\Testing\obj\Debug\Testing.pdb
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\UserFeaturs.dll
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\UserFeaturs.pdb
+C:\Users\lutik\source\repos\HumanResource\Testing\bin\Debug\UserFeaturs.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\Testing.exe.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\Testing.exe
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\Testing.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\EntityFramework.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\EntityFramework.SqlServer.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\HumanResource.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\UserFeaturs.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\WorkWithBD.dll
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\HumanResource.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\HumanResource.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\UserFeaturs.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\UserFeaturs.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\WorkWithBD.pdb
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\WorkWithBD.dll.config
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\EntityFramework.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\bin\Debug\EntityFramework.SqlServer.xml
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\obj\Debug\Testing.exe
+E:\Другий Курс\Об'єктно орієнтоване програмування\Kursach\HumanResource\Testing\obj\Debug\Testing.pdb
